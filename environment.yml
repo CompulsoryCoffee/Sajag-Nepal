@@ -1,0 +1,17 @@
+name: mhmodel
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - geopandas
+  - dask-geopandas
+  - xarray
+  - rioxarray
+  - dask
+  - scipy
+  - tqdm
+  - matplotlib
+  - scienceplots
+  - numba
+  - pyogrio
